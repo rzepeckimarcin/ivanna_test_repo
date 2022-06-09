@@ -1,0 +1,5 @@
+Here, you will learn to create a simple console application in C# and understand the basic building blocks of a console application.
+
+C# can be used in a window-based, web-based, or console application. To start with, we will create a console application to work with C#.
+
+Open Visual Studio (2017 or later) installed on your local machine. Click on File -> New Project... from the top menu, as shown below.
